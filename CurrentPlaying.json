@@ -1,0 +1,95 @@
+{
+  "timestamp": 1619609611820,
+  "context": {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/50dfVlJoCqCkYDEZKQGHLx"
+    },
+    "href": "https://api.spotify.com/v1/playlists/50dfVlJoCqCkYDEZKQGHLx",
+    "type": "playlist",
+    "uri": "spotify:playlist:50dfVlJoCqCkYDEZKQGHLx"
+  },
+  "progress_ms": 21960,
+  "item": {
+    "album": {
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3t4MHnVggiFLOuSSh4odBk"
+          },
+          "href": "https://api.spotify.com/v1/artists/3t4MHnVggiFLOuSSh4odBk",
+          "id": "3t4MHnVggiFLOuSSh4odBk",
+          "name": "TheOvertunes",
+          "type": "artist",
+          "uri": "spotify:artist:3t4MHnVggiFLOuSSh4odBk"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2WNUkqkojTCotfmXrvezV3"
+      },
+      "href": "https://api.spotify.com/v1/albums/2WNUkqkojTCotfmXrvezV3",
+      "id": "2WNUkqkojTCotfmXrvezV3",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27385905ceff03711d5da48dec9",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0285905ceff03711d5da48dec9",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485185905ceff03711d5da48dec9",
+          "width": 64
+        }
+      ],
+      "name": "I Still Love You (Acoustic Version)",
+      "release_date": "2018-08-17",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:2WNUkqkojTCotfmXrvezV3"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3t4MHnVggiFLOuSSh4odBk"
+        },
+        "href": "https://api.spotify.com/v1/artists/3t4MHnVggiFLOuSSh4odBk",
+        "id": "3t4MHnVggiFLOuSSh4odBk",
+        "name": "TheOvertunes",
+        "type": "artist",
+        "uri": "spotify:artist:3t4MHnVggiFLOuSSh4odBk"
+      }
+    ],
+    "disc_number": 1,
+    "duration_ms": 283856,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "IDAC51800026"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/12NJunsYai7rMT0kM3E8GV"
+    },
+    "href": "https://api.spotify.com/v1/tracks/12NJunsYai7rMT0kM3E8GV",
+    "id": "12NJunsYai7rMT0kM3E8GV",
+    "is_local": false,
+    "is_playable": true,
+    "name": "I Still Love You (Acoustic Version)",
+    "popularity": 60,
+    "preview_url": "https://p.scdn.co/mp3-preview/dd8b0a7a04eb036a406affc6a16b7986fc50b550?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:12NJunsYai7rMT0kM3E8GV"
+  },
+  "currently_playing_type": "track",
+  "actions": {
+    "disallows": {
+      "resuming": true
+    }
+  },
+  "is_playing": true
+}
